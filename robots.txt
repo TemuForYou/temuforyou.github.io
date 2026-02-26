@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://temuforyou.github.io/Temu_Free_/sitemap.xml
